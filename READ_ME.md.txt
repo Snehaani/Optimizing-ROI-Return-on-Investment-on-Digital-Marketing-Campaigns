@@ -26,8 +26,7 @@ The workflow includes:
 📦 project-folder
  ├── README.md  
  ├── EDA.ipynb  
- ├── Model_Building.ipynb  
- ├── final_model.pkl  
+ ├── Model_Building.ipynb 
  ├── smote_object.pkl  
  
 
@@ -127,4 +126,5 @@ Top Features:
 **Sneha M**
 MBA — Data Science
 Jain University
+
 
